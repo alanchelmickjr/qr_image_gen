@@ -17,7 +17,7 @@
 
 ## 🚀 Quick Start
 
-1. 🌐 Visit our [QRImage Web App](https://hughchen.github.io/qr_image/)
+1. 🌐 Visit our [QRImage Web App](https://alanchelmickjr.github.io/qr_image_gen/)
 2. 🖼️ Upload your favorite image
 3. 🔗 Enter the destination URL
 4. ⚙️ Tweak the settings to your liking
