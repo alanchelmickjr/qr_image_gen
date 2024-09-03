@@ -46,3 +46,6 @@ This project is proudly open source under the [GPLv3 License](LICENSE).
 <p align="center">
     <strong>Ready to revolutionize your QR codes? Try QRImage today!</strong>
 </p>
+<p align="center">
+    <img src="images/qr_code.png" alt="QRImage Demo" width="600">
+</p>
