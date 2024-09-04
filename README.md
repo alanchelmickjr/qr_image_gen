@@ -36,6 +36,7 @@ Turn boring black-and-white QR codes into eye-catching conversation starters! Pe
 ## 🛠️ Under the Hood
 
 Powered by the awesome [davidshimjs/qrcode](https://github.com/davidshimjs/qrcodejs) library.
+Huge Shout out to (https://github.com/HughChen/qr_image) for the fork source.  The Force is strong with this one.
 
 ## 📜 License
 
