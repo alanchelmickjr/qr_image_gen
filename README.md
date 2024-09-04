@@ -38,7 +38,7 @@ Turn boring black-and-white QR codes into eye-catching conversation starters! Pe
 Powered by the awesome [davidshimjs/qrcode](https://github.com/davidshimjs/qrcodejs) library.
 
 Huge Shout out to (https://github.com/HughChen/qr_image) for the fork source.  The Force is strong with this one.
-![Image](https://gp8lfrj7ia0anqai.public.blob.vercel-storage.com/image-1725423190574-g8YVuhoPnm6jGFGPhyNzC4wdbzo14E.jpg)
+<img src="https://gp8lfrj7ia0anqai.public.blob.vercel-storage.com/image-1725423190574-g8YVuhoPnm6jGFGPhyNzC4wdbzo14E.jpg" width="300" height="200" alt="Image">
 ## 📜 License
 
 This project is proudly open source under the [GPLv3 License](LICENSE).
